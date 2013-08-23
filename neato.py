@@ -2,10 +2,19 @@
 
 import json
 import csv
+import sys
 
-BIRDS_FILE = "johnath.csv"
-RECENTS_FILE = "sample.json"
+if len(sys.argv) is not 3 :
+  print "Usage: " + sys.argv[0] + " <ebird sightings list csv> <ebird recent reports json>"
+  exit(0)
 
+BIRDS_FILE = sys.argv[1] 
+RECENTS_FILE = sys.argv[2]
+
+DEBUG = False
+def debug (s) :
+  if (DEBUG) : 
+    print(s)
 
 def readbirds (f) :
   csvreader = csv.reader(f)
@@ -15,6 +24,7 @@ def readbirds (f) :
     name = row[1]
     if (len(name.split('-')) > 1) :
       birds.append(name.split('-')[-1].strip())
+      debug(birds)
   return birds
 
 def readrecents (f) :
@@ -29,16 +39,19 @@ def readrecents (f) :
 ## Read the life list
 birdsFile = open(BIRDS_FILE)
 birds = readbirds(birdsFile)
+print("Read {} birds from life list".format(len(birds)))
+
 
 ## Read the recent sightings
 recentsFile = open(RECENTS_FILE)
 recents = readrecents(recentsFile)
+print("Read {} recent sightings, before filtering".format(len(recents)))
 
 # Drop birds we've already seen
 recents = filter(lambda x : (x['sciName'] not in birds and not x['sciName'].endswith('sp.')), recents)
+print("Found {} interesting recents after filtering".format(len(recents)))
 
 for bird in recents :
   print("{locName} - {comName} ({sciName})".format(**bird))
-print(len(recents))
 
 
