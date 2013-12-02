@@ -5,5 +5,5 @@
 ./gather-sightings.py GTA-hotspot-locIDs.txt | xargs curl | sed 's/\[\]//g' | sed 's/\]\[/\,/g' > `date +%Y-%m-%d`.json
 
 # get the report for johnath based on the recent sightings
-./neato.py johnath.csv `date +%Y-%m-%d`.json
+./neato.py johnath.csv `date +%Y-%m-%d`.json | sort 
 
