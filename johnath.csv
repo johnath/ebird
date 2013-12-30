@@ -88,81 +88,84 @@ Row #,Species,Count,Location,S/P,Date,LocID,SubID
 87,Rock Pigeon - Columba livia,6,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
 88,Common Wood-Pigeon - Columba palumbus,6,St. James Park,GB-ENG,03 Jun 2013,L945563,S14376550
 89,Mourning Dove - Zenaida macroura,5,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
-90,Chimney Swift - Chaetura pelagica,6,Murphy's Law (Pub),CA-ON,06 May 2013,L2158892,S14026098
-91,Common Swift - Apus apus,6,St. James Park,GB-ENG,03 Jun 2013,L945563,S14376550
-92,Ruby-throated Hummingbird - Archilochus colubris,3,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-93,Anna's Hummingbird - Calypte anna,6,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-94,Belted Kingfisher - Megaceryle alcyon,1,Scarborough--Bluffers Park,CA-ON,18 Feb 2013,L450425,S13098235
-95,Red-bellied Woodpecker - Melanerpes carolinus,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-96,Yellow-bellied Sapsucker - Sphyrapicus varius,2,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-97,Downy Woodpecker - Picoides pubescens,1,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-98,Hairy Woodpecker - Picoides villosus,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-99,Northern Flicker - Colaptes auratus,1,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
-100,Pileated Woodpecker - Dryocopus pileatus,1,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
-101,American Kestrel - Falco sparverius,2,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
-102,Black Phoebe - Sayornis nigricans,1,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-103,Eastern Phoebe - Sayornis phoebe,1,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
-104,Eastern Kingbird - Tyrannus tyrannus,1,Duck pond,CA-ON,07 Jul 2013,L2288251,S14704249
-105,Loggerhead Shrike - Lanius ludovicianus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-106,Blue-headed Vireo - Vireo solitarius,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-107,Blue Jay - Cyanocitta cristata,1,Collingwood Harbour,CA-ON,10 Feb 2013,L880143,S13388889
-108,Black-billed Magpie - Pica hudsonia,1,"Mona, Veterans Memorial Highway",US-UT,29 Jun 2013,L2254656,S14531277
-109,American Crow - Corvus brachyrhynchos,2,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
-110,Northwestern Crow - Corvus caurinus,6,Ferry - Tsawwassen to Active Pass,CA-BC,11 May 2013,L306824,S14163110
-111,Common Raven - Corvus corax,1,Collingwood Harbour,CA-ON,10 Feb 2013,L880143,S13388889
-112,Horned Lark - Eremophila alpestris,2,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
-113,Northern Rough-winged Swallow - Stelgidopteryx serripennis,2,"Leamington, 604-608 Bevel Line Road",CA-ON,20 Apr 2013,L2126285,S13817330
-114,Tree Swallow - Tachycineta bicolor,10,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
-115,Barn Swallow - Hirundo rustica,1,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
-116,Cliff Swallow - Petrochelidon pyrrhonota,6,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
-117,Carolina Chickadee - Poecile carolinensis,6,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
-118,Black-capped Chickadee - Poecile atricapillus,4,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
-119,Chestnut-backed Chickadee - Poecile rufescens,3,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-120,Tufted Titmouse - Baeolophus bicolor,10,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
-121,Red-breasted Nuthatch - Sitta canadensis,1,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-122,White-breasted Nuthatch - Sitta carolinensis,2,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-123,Brown Creeper - Certhia americana,2,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
-124,House Wren - Troglodytes aedon,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-125,Sedge Wren - Cistothorus platensis,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-126,Blue-gray Gnatcatcher - Polioptila caerulea,1,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
-127,Golden-crowned Kinglet - Regulus satrapa,2,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
-128,Ruby-crowned Kinglet - Regulus calendula,12,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
-129,Hermit Thrush - Catharus guttatus,1,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-130,American Robin - Turdus migratorius,2,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
-131,Gray Catbird - Dumetella carolinensis,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-132,Brown Thrasher - Toxostoma rufum,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-133,Northern Mockingbird - Mimus polyglottos,2,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
-134,European Starling - Sturnus vulgaris,3,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-135,Cedar Waxwing - Bombycilla cedrorum,1,Toronto--Toronto Zoo,CA-ON,14 Jun 2013,L523153,S14437426
-136,Ovenbird - Seiurus aurocapilla,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-137,Worm-eating Warbler - Helmitheros vermivorum,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-138,American Redstart - Setophaga ruticilla,6,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-139,Magnolia Warbler - Setophaga magnolia,3,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-140,Yellow Warbler - Setophaga petechia,2,"Rigby, 4175 East Menan Lorenzo Highway",US-ID,30 Jun 2013,L2262280,S14568354
-141,Chestnut-sided Warbler - Setophaga pensylvanica,2,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-142,Palm Warbler - Setophaga palmarum,1,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
-143,Yellow-rumped Warbler - Setophaga coronata,2,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-144,Wilson's Warbler - Cardellina pusilla,1,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
-145,Eastern Towhee - Pipilo erythrophthalmus,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-146,American Tree Sparrow - Spizella arborea,6,Scarborough--Bluffers Park,CA-ON,18 Feb 2013,L450425,S13098235
-147,Chipping Sparrow - Spizella passerina,12,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
-148,Savannah Sparrow - Passerculus sandwichensis,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-149,Grasshopper Sparrow - Ammodramus savannarum,2,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-150,Fox Sparrow - Passerella iliaca,3,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
-151,Song Sparrow - Melospiza melodia,5,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
-152,White-throated Sparrow - Zonotrichia albicollis,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-153,Golden-crowned Sparrow - Zonotrichia atricapilla,3,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-154,Dark-eyed Junco - Junco hyemalis,4,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-155,Northern Cardinal - Cardinalis cardinalis,2,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-156,Red-winged Blackbird - Agelaius phoeniceus,12,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
-157,Eastern Meadowlark - Sturnella magna,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-158,Brewer's Blackbird - Euphagus cyanocephalus,20,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-159,Common Grackle - Quiscalus quiscula,2,Scarborough--Bluffers Park,CA-ON,10 Mar 2013,L450425,S13358263
-160,Brown-headed Cowbird - Molothrus ater,2,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
-161,Baltimore Oriole - Icterus galbula,1,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
-162,House Finch - Haemorhous mexicanus,4,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
-163,Purple Finch - Haemorhous purpureus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-164,Pine Siskin - Spinus pinus,8,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
-165,Lesser Goldfinch - Spinus psaltria,,"Old Mountain View, 500 Castro Street",US-CA,16 Apr 2013,L2118405,S13768141
-166,American Goldfinch - Spinus tristis,1,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
-167,House Sparrow - Passer domesticus,5,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
+90,Snowy Owl - Bubo scandiacus,1,Toronto--Downsview Park,CA-ON,23 Dec 2013,L1437376,S16067214
+91,Long-eared Owl - Asio otus,1,Toronto--Colonel Samuel Smith Park,CA-ON,30 Dec 2013,L2044199,S16129369
+92,Chimney Swift - Chaetura pelagica,6,Murphy's Law (Pub),CA-ON,06 May 2013,L2158892,S14026098
+93,Common Swift - Apus apus,6,St. James Park,GB-ENG,03 Jun 2013,L945563,S14376550
+94,Ruby-throated Hummingbird - Archilochus colubris,3,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+95,Anna's Hummingbird - Calypte anna,6,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+96,Belted Kingfisher - Megaceryle alcyon,1,Scarborough--Bluffers Park,CA-ON,18 Feb 2013,L450425,S13098235
+97,Red-bellied Woodpecker - Melanerpes carolinus,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+98,Yellow-bellied Sapsucker - Sphyrapicus varius,2,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+99,Downy Woodpecker - Picoides pubescens,1,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+100,Hairy Woodpecker - Picoides villosus,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+101,Northern Flicker - Colaptes auratus,1,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
+102,Pileated Woodpecker - Dryocopus pileatus,1,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
+103,American Kestrel - Falco sparverius,2,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
+104,Black Phoebe - Sayornis nigricans,1,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+105,Eastern Phoebe - Sayornis phoebe,1,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
+106,Eastern Kingbird - Tyrannus tyrannus,1,Duck pond,CA-ON,07 Jul 2013,L2288251,S14704249
+107,Loggerhead Shrike - Lanius ludovicianus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+108,Northern Shrike - Lanius excubitor,1,Toronto--Downsview Park,CA-ON,23 Dec 2013,L1437376,S16067214
+109,Blue-headed Vireo - Vireo solitarius,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+110,Blue Jay - Cyanocitta cristata,1,Collingwood Harbour,CA-ON,10 Feb 2013,L880143,S13388889
+111,Black-billed Magpie - Pica hudsonia,1,"Mona, Veterans Memorial Highway",US-UT,29 Jun 2013,L2254656,S14531277
+112,American Crow - Corvus brachyrhynchos,2,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
+113,Northwestern Crow - Corvus caurinus,6,Ferry - Tsawwassen to Active Pass,CA-BC,11 May 2013,L306824,S14163110
+114,Common Raven - Corvus corax,1,Collingwood Harbour,CA-ON,10 Feb 2013,L880143,S13388889
+115,Horned Lark - Eremophila alpestris,2,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
+116,Northern Rough-winged Swallow - Stelgidopteryx serripennis,2,"Leamington, 604-608 Bevel Line Road",CA-ON,20 Apr 2013,L2126285,S13817330
+117,Tree Swallow - Tachycineta bicolor,10,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
+118,Barn Swallow - Hirundo rustica,1,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
+119,Cliff Swallow - Petrochelidon pyrrhonota,6,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
+120,Carolina Chickadee - Poecile carolinensis,6,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
+121,Black-capped Chickadee - Poecile atricapillus,4,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
+122,Chestnut-backed Chickadee - Poecile rufescens,3,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+123,Tufted Titmouse - Baeolophus bicolor,10,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
+124,Red-breasted Nuthatch - Sitta canadensis,1,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+125,White-breasted Nuthatch - Sitta carolinensis,2,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+126,Brown Creeper - Certhia americana,2,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
+127,House Wren - Troglodytes aedon,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+128,Sedge Wren - Cistothorus platensis,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+129,Blue-gray Gnatcatcher - Polioptila caerulea,1,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
+130,Golden-crowned Kinglet - Regulus satrapa,2,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
+131,Ruby-crowned Kinglet - Regulus calendula,12,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
+132,Hermit Thrush - Catharus guttatus,1,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+133,American Robin - Turdus migratorius,2,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
+134,Gray Catbird - Dumetella carolinensis,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+135,Brown Thrasher - Toxostoma rufum,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+136,Northern Mockingbird - Mimus polyglottos,2,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
+137,European Starling - Sturnus vulgaris,3,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+138,Cedar Waxwing - Bombycilla cedrorum,1,Toronto--Toronto Zoo,CA-ON,14 Jun 2013,L523153,S14437426
+139,Ovenbird - Seiurus aurocapilla,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+140,Worm-eating Warbler - Helmitheros vermivorum,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+141,American Redstart - Setophaga ruticilla,6,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+142,Magnolia Warbler - Setophaga magnolia,3,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+143,Yellow Warbler - Setophaga petechia,2,"Rigby, 4175 East Menan Lorenzo Highway",US-ID,30 Jun 2013,L2262280,S14568354
+144,Chestnut-sided Warbler - Setophaga pensylvanica,2,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+145,Palm Warbler - Setophaga palmarum,1,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
+146,Yellow-rumped Warbler - Setophaga coronata,2,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+147,Wilson's Warbler - Cardellina pusilla,1,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
+148,Eastern Towhee - Pipilo erythrophthalmus,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+149,American Tree Sparrow - Spizella arborea,6,Scarborough--Bluffers Park,CA-ON,18 Feb 2013,L450425,S13098235
+150,Chipping Sparrow - Spizella passerina,12,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
+151,Savannah Sparrow - Passerculus sandwichensis,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+152,Grasshopper Sparrow - Ammodramus savannarum,2,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+153,Fox Sparrow - Passerella iliaca,3,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
+154,Song Sparrow - Melospiza melodia,5,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
+155,White-throated Sparrow - Zonotrichia albicollis,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+156,Golden-crowned Sparrow - Zonotrichia atricapilla,3,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+157,Dark-eyed Junco - Junco hyemalis,4,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+158,Northern Cardinal - Cardinalis cardinalis,2,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+159,Red-winged Blackbird - Agelaius phoeniceus,12,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
+160,Eastern Meadowlark - Sturnella magna,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+161,Brewer's Blackbird - Euphagus cyanocephalus,20,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+162,Common Grackle - Quiscalus quiscula,2,Scarborough--Bluffers Park,CA-ON,10 Mar 2013,L450425,S13358263
+163,Brown-headed Cowbird - Molothrus ater,2,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
+164,Baltimore Oriole - Icterus galbula,1,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
+165,House Finch - Haemorhous mexicanus,4,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
+166,Purple Finch - Haemorhous purpureus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+167,Pine Siskin - Spinus pinus,8,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
+168,Lesser Goldfinch - Spinus psaltria,,"Old Mountain View, 500 Castro Street",US-CA,16 Apr 2013,L2118405,S13768141
+169,American Goldfinch - Spinus tristis,1,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
+170,House Sparrow - Passer domesticus,5,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
