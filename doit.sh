@@ -12,5 +12,6 @@ RECENTS="recents/`date +%Y-%m-%d`.json"
 ./gather-sightings.py GTA-hotspot-locIDs.txt | xargs curl | sed 's/\[\]//g' | sed 's/\]\[/\,/g' > $RECENTS
 
 # get the report for the specified life list based on the recent sightings. Hybrids are false positives
-./neato.py $1 $RECENTS | grep -v 'hybrid' | sort 
+# and names with a '/' like "greater/lesser scaup" aren't very interesting either
+./neato.py $1 $RECENTS | grep -v 'hybrid' | grep -v '/' | sort 
 
