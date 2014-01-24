@@ -39,17 +39,17 @@ def readrecents (f) :
 ## Read the life list
 birdsFile = open(BIRDS_FILE)
 birds = readbirds(birdsFile)
-print("* Found {0} birds from life list".format(len(birds)))
+debug("* Found {0} birds from life list".format(len(birds)))
 
 
 ## Read the recent sightings
 recentsFile = open(RECENTS_FILE)
 recents = readrecents(recentsFile)
-print("** Found {0} recent sightings, before filtering".format(len(recents)))
+debug("** Found {0} recent sightings, before filtering".format(len(recents)))
 
 # Drop birds we've already seen
 recents = filter(lambda x : (x['sciName'] not in birds and not x['sciName'].endswith('sp.')), recents)
-print("*** Found {0} interesting recents after filtering".format(len(recents)))
+debug("*** Found {0} interesting recents after filtering".format(len(recents)))
 
 for bird in recents :
   print("{locName} - {comName} ({sciName})".format(**bird))
