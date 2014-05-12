@@ -253,21 +253,22 @@ Row #,Species,Count,Location,S/P,Date,LocID,SubID
 252,Common Chlorospingus - Chlorospingus flavopectus,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
 253,Hepatic Tanager - Piranga flava,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
 254,Northern Cardinal - Cardinalis cardinalis,2,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-255,Red-winged Blackbird - Agelaius phoeniceus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-256,Eastern Meadowlark - Sturnella magna,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-257,Brewer's Blackbird - Euphagus cyanocephalus,20,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-258,Common Grackle - Quiscalus quiscula,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-259,Great-tailed Grackle - Quiscalus mexicanus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-260,Nicaraguan Grackle - Quiscalus nicaraguensis,3,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-261,Brown-headed Cowbird - Molothrus ater,2,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
-262,Streak-backed Oriole - Icterus pustulatus,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
-263,Baltimore Oriole - Icterus galbula,1,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
-264,Montezuma Oropendola - Psarocolius montezuma,2,"Alfaro Ruiz, 141",CR-A,09 Feb 2014,L2610311,S16858088
-265,Yellow-throated Euphonia - Euphonia hirundinacea,6,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-266,Golden-browed Chlorophonia - Chlorophonia callophrys,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-267,House Finch - Haemorhous mexicanus,4,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
-268,Purple Finch - Haemorhous purpureus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-269,Pine Siskin - Spinus pinus,8,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
-270,Lesser Goldfinch - Spinus psaltria,,"Old Mountain View, 500 Castro Street",US-CA,16 Apr 2013,L2118405,S13768141
-271,American Goldfinch - Spinus tristis,1,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
-272,House Sparrow - Passer domesticus,5,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
+255,Rose-breasted Grosbeak - Pheucticus ludovicianus,1,Cairns Ravine,CA-ON,09 May 2014,L2396445,S18298387
+256,Red-winged Blackbird - Agelaius phoeniceus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+257,Eastern Meadowlark - Sturnella magna,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+258,Brewer's Blackbird - Euphagus cyanocephalus,20,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+259,Common Grackle - Quiscalus quiscula,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+260,Great-tailed Grackle - Quiscalus mexicanus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+261,Nicaraguan Grackle - Quiscalus nicaraguensis,3,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+262,Brown-headed Cowbird - Molothrus ater,2,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
+263,Streak-backed Oriole - Icterus pustulatus,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
+264,Baltimore Oriole - Icterus galbula,1,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
+265,Montezuma Oropendola - Psarocolius montezuma,2,"Alfaro Ruiz, 141",CR-A,09 Feb 2014,L2610311,S16858088
+266,Yellow-throated Euphonia - Euphonia hirundinacea,6,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+267,Golden-browed Chlorophonia - Chlorophonia callophrys,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+268,House Finch - Haemorhous mexicanus,4,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
+269,Purple Finch - Haemorhous purpureus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+270,Pine Siskin - Spinus pinus,8,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
+271,Lesser Goldfinch - Spinus psaltria,,"Old Mountain View, 500 Castro Street",US-CA,16 Apr 2013,L2118405,S13768141
+272,American Goldfinch - Spinus tristis,1,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
+273,House Sparrow - Passer domesticus,5,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
