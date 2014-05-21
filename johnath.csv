@@ -216,59 +216,62 @@ Row #,Species,Count,Location,S/P,Date,LocID,SubID
 215,Common Yellowthroat - Geothlypis trichas,1,Cairns Ravine,CA-ON,09 May 2014,L2396445,S18298387
 216,American Redstart - Setophaga ruticilla,6,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
 217,Cape May Warbler - Setophaga tigrina,1,Cairns Ravine,CA-ON,10 May 2014,L2396445,S18313996
-218,Magnolia Warbler - Setophaga magnolia,3,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-219,Blackburnian Warbler - Setophaga fusca,1,Cairns Ravine,CA-ON,07 May 2014,L2396445,S18265724
-220,Yellow Warbler - Setophaga petechia,2,"Rigby, 4175 East Menan Lorenzo Highway",US-ID,30 Jun 2013,L2262280,S14568354
-221,Chestnut-sided Warbler - Setophaga pensylvanica,2,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-222,Palm Warbler - Setophaga palmarum,1,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
-223,Yellow-rumped Warbler - Setophaga coronata,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-224,Black-throated Green Warbler - Setophaga virens,1,Cairns Ravine,CA-ON,09 May 2014,L2396445,S18302782
-225,Rufous-capped Warbler - Basileuterus rufifrons,1,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-226,Three-striped Warbler - Basileuterus tristriatus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-227,Wilson's Warbler - Cardellina pusilla,1,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
-228,Slate-throated Redstart - Myioborus miniatus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-229,Passerini's Tanager - Ramphocelus passerinii,1,Tabacon Resort,CR-A,08 Feb 2014,L444570,S17082977
-230,Blue-gray Tanager - Thraupis episcopus,1,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-231,Palm Tanager - Thraupis palmarum,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-232,Spangle-cheeked Tanager - Tangara dowii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-233,Silver-throated Tanager - Tangara icterocephala,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-234,Red-legged Honeycreeper - Cyanerpes cyaneus,5,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-235,Bananaquit - Coereba flaveola,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-236,Buff-throated Saltator - Saltator maximus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-237,Chestnut-capped Brush-Finch - Arremon brunneinucha,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-238,Eastern Towhee - Pipilo erythrophthalmus,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-239,White-eared Ground-Sparrow - Melozone leucotis,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-240,Stripe-headed Sparrow - Peucaea ruficauda,2,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-241,American Tree Sparrow - Spizella arborea,6,Scarborough--Bluffers Park,CA-ON,18 Feb 2013,L450425,S13098235
-242,Chipping Sparrow - Spizella passerina,12,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
-243,Savannah Sparrow - Passerculus sandwichensis,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-244,Grasshopper Sparrow - Ammodramus savannarum,2,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-245,Fox Sparrow - Passerella iliaca,3,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
-246,Song Sparrow - Melospiza melodia,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-247,Rufous-collared Sparrow - Zonotrichia capensis,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-248,White-throated Sparrow - Zonotrichia albicollis,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-249,White-crowned Sparrow - Zonotrichia leucophrys,2,Cairns Ravine,CA-ON,07 May 2014,L2396445,S18265724
-250,Golden-crowned Sparrow - Zonotrichia atricapilla,3,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-251,Dark-eyed Junco - Junco hyemalis,4,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-252,Common Chlorospingus - Chlorospingus flavopectus,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-253,Hepatic Tanager - Piranga flava,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-254,Northern Cardinal - Cardinalis cardinalis,2,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-255,Rose-breasted Grosbeak - Pheucticus ludovicianus,1,Cairns Ravine,CA-ON,09 May 2014,L2396445,S18298387
-256,Red-winged Blackbird - Agelaius phoeniceus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-257,Eastern Meadowlark - Sturnella magna,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-258,Brewer's Blackbird - Euphagus cyanocephalus,20,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-259,Common Grackle - Quiscalus quiscula,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-260,Great-tailed Grackle - Quiscalus mexicanus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-261,Nicaraguan Grackle - Quiscalus nicaraguensis,3,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-262,Brown-headed Cowbird - Molothrus ater,2,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
-263,Streak-backed Oriole - Icterus pustulatus,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
-264,Baltimore Oriole - Icterus galbula,1,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
-265,Montezuma Oropendola - Psarocolius montezuma,2,"Alfaro Ruiz, 141",CR-A,09 Feb 2014,L2610311,S16858088
-266,Yellow-throated Euphonia - Euphonia hirundinacea,6,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-267,Golden-browed Chlorophonia - Chlorophonia callophrys,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-268,House Finch - Haemorhous mexicanus,4,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
-269,Purple Finch - Haemorhous purpureus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-270,Pine Siskin - Spinus pinus,8,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
-271,Lesser Goldfinch - Spinus psaltria,,"Old Mountain View, 500 Castro Street",US-CA,16 Apr 2013,L2118405,S13768141
-272,American Goldfinch - Spinus tristis,1,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
-273,House Sparrow - Passer domesticus,5,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
+218,Northern Parula - Setophaga americana,1,Cairns Ravine,CA-ON,19 May 2014,L2396445,S18474510
+219,Magnolia Warbler - Setophaga magnolia,3,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+220,Bay-breasted Warbler - Setophaga castanea,1,Cairns Ravine,CA-ON,19 May 2014,L2396445,S18474510
+221,Blackburnian Warbler - Setophaga fusca,1,Cairns Ravine,CA-ON,07 May 2014,L2396445,S18265724
+222,Yellow Warbler - Setophaga petechia,2,"Rigby, 4175 East Menan Lorenzo Highway",US-ID,30 Jun 2013,L2262280,S14568354
+223,Chestnut-sided Warbler - Setophaga pensylvanica,2,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+224,Black-throated Blue Warbler - Setophaga caerulescens,1,Cairns Ravine,CA-ON,17 May 2014,L2396445,S18435703
+225,Palm Warbler - Setophaga palmarum,1,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
+226,Yellow-rumped Warbler - Setophaga coronata,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+227,Black-throated Green Warbler - Setophaga virens,1,Cairns Ravine,CA-ON,09 May 2014,L2396445,S18302782
+228,Rufous-capped Warbler - Basileuterus rufifrons,1,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+229,Three-striped Warbler - Basileuterus tristriatus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+230,Wilson's Warbler - Cardellina pusilla,1,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
+231,Slate-throated Redstart - Myioborus miniatus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+232,Passerini's Tanager - Ramphocelus passerinii,1,Tabacon Resort,CR-A,08 Feb 2014,L444570,S17082977
+233,Blue-gray Tanager - Thraupis episcopus,1,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+234,Palm Tanager - Thraupis palmarum,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+235,Spangle-cheeked Tanager - Tangara dowii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+236,Silver-throated Tanager - Tangara icterocephala,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+237,Red-legged Honeycreeper - Cyanerpes cyaneus,5,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+238,Bananaquit - Coereba flaveola,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+239,Buff-throated Saltator - Saltator maximus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+240,Chestnut-capped Brush-Finch - Arremon brunneinucha,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+241,Eastern Towhee - Pipilo erythrophthalmus,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+242,White-eared Ground-Sparrow - Melozone leucotis,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+243,Stripe-headed Sparrow - Peucaea ruficauda,2,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+244,American Tree Sparrow - Spizella arborea,6,Scarborough--Bluffers Park,CA-ON,18 Feb 2013,L450425,S13098235
+245,Chipping Sparrow - Spizella passerina,12,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
+246,Savannah Sparrow - Passerculus sandwichensis,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+247,Grasshopper Sparrow - Ammodramus savannarum,2,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+248,Fox Sparrow - Passerella iliaca,3,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
+249,Song Sparrow - Melospiza melodia,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+250,Rufous-collared Sparrow - Zonotrichia capensis,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+251,White-throated Sparrow - Zonotrichia albicollis,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+252,White-crowned Sparrow - Zonotrichia leucophrys,2,Cairns Ravine,CA-ON,07 May 2014,L2396445,S18265724
+253,Golden-crowned Sparrow - Zonotrichia atricapilla,3,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+254,Dark-eyed Junco - Junco hyemalis,4,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+255,Common Chlorospingus - Chlorospingus flavopectus,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+256,Hepatic Tanager - Piranga flava,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+257,Northern Cardinal - Cardinalis cardinalis,2,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+258,Rose-breasted Grosbeak - Pheucticus ludovicianus,1,Cairns Ravine,CA-ON,09 May 2014,L2396445,S18298387
+259,Red-winged Blackbird - Agelaius phoeniceus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+260,Eastern Meadowlark - Sturnella magna,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+261,Brewer's Blackbird - Euphagus cyanocephalus,20,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+262,Common Grackle - Quiscalus quiscula,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+263,Great-tailed Grackle - Quiscalus mexicanus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+264,Nicaraguan Grackle - Quiscalus nicaraguensis,3,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+265,Brown-headed Cowbird - Molothrus ater,2,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
+266,Streak-backed Oriole - Icterus pustulatus,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
+267,Baltimore Oriole - Icterus galbula,1,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
+268,Montezuma Oropendola - Psarocolius montezuma,2,"Alfaro Ruiz, 141",CR-A,09 Feb 2014,L2610311,S16858088
+269,Yellow-throated Euphonia - Euphonia hirundinacea,6,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+270,Golden-browed Chlorophonia - Chlorophonia callophrys,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+271,House Finch - Haemorhous mexicanus,4,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
+272,Purple Finch - Haemorhous purpureus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+273,Pine Siskin - Spinus pinus,8,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
+274,Lesser Goldfinch - Spinus psaltria,,"Old Mountain View, 500 Castro Street",US-CA,16 Apr 2013,L2118405,S13768141
+275,American Goldfinch - Spinus tristis,1,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
+276,House Sparrow - Passer domesticus,5,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
