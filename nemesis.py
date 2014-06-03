@@ -34,7 +34,9 @@ recentsUrl = 'http://ebird.org/ws1.1/data/obs/geo_spp/recent?lng=' + str(LNG) + 
 debug("*** loading URL: " + recentsUrl);
 
 ## Read the recent sightings (-s for silent mode curl)
-output = subprocess.check_output(["curl", "-s", recentsUrl])
+## Sadface: check_output is python 2.7, and people.mozilla.org only has 2.6
+## output = subprocess.check_output(["curl", "-s", recentsUrl])
+output = subprocess.Popen(["curl", "-s", recentsUrl], stdout=subprocess.PIPE).communicate()[0]
 debug("** curl output **")
 debug(output);
 
