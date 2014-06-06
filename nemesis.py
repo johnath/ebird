@@ -11,6 +11,7 @@ if len(sys.argv) is not 4 :
   exit(0)
 
 DIST = '50' #search radius, in km. API defaults to 25km, capped at 50
+BACK = '5' # days to search. API default is a very generous 14
 LAT = sys.argv[1] 
 LNG = sys.argv[2]
 NEMESIS = sys.argv[3]
@@ -30,7 +31,7 @@ def readrecents (f) :
 
   return map(filter, recents)
 
-recentsUrl = 'http://ebird.org/ws1.1/data/obs/geo_spp/recent?dist=' + DIST + \
+recentsUrl = 'http://ebird.org/ws1.1/data/obs/geo_spp/recent?dist=' + DIST + '&back=' + BACK + \
              '&lng=' + str(LNG) + '&lat=' + str(LAT) + '&sci=' + str(NEMESIS) + '&fmt=json';
 
 debug("*** loading URL: " + recentsUrl);
