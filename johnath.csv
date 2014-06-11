@@ -34,7 +34,7 @@ Row #,Species,Count,Location,S/P,Date,LocID,SubID
 33,Black Guan - Chamaepetes unicolor,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
 34,Ruffed Grouse - Bonasa umbellus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
 35,Wild Turkey - Meleagris gallopavo,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-36,Common Loon - Gavia immer,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+36,Common Loon - Gavia immer,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
 37,Pied-billed Grebe - Podilymbus podiceps,2,"Leamington, 604-608 Bevel Line Road",CA-ON,20 Apr 2013,L2126285,S13817330
 38,Horned Grebe - Podiceps auritus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
 39,Red-necked Grebe - Podiceps grisegena,1,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
@@ -47,7 +47,7 @@ Row #,Species,Count,Location,S/P,Date,LocID,SubID
 46,Pelagic Cormorant - Phalacrocorax pelagicus,15,Ferry - Tsawwassen to Active Pass,CA-BC,11 May 2013,L306824,S14163110
 47,Anhinga - Anhinga anhinga,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
 48,Brown Pelican - Pelecanus occidentalis,2,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-49,Great Blue Heron - Ardea herodias,2,"Leamington, 604-608 Bevel Line Road",CA-ON,20 Apr 2013,L2126285,S13817330
+49,Great Blue Heron - Ardea herodias,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
 50,Gray Heron - Ardea cinerea,1,St. James Park,GB-ENG,03 Jun 2013,L945563,S14376550
 51,Great Egret - Ardea alba,1,Toronto--High Park,CA-ON,07 Apr 2013,L2089949,S13660961
 52,Snowy Egret - Egretta thula,1,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
@@ -59,7 +59,7 @@ Row #,Species,Count,Location,S/P,Date,LocID,SubID
 58,White-faced Ibis - Plegadis chihi,20,"Rigby, 4175 East Menan Lorenzo Highway",US-ID,30 Jun 2013,L2262280,S14568354
 59,Black Vulture - Coragyps atratus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
 60,Turkey Vulture - Cathartes aura,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-61,Osprey - Pandion haliaetus,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+61,Osprey - Pandion haliaetus,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
 62,White-tailed Kite - Elanus leucurus,,"Stanford, Junipero Serra Freeway",US-CA,16 Apr 2013,L2119387,S13773861
 63,Northern Harrier - Circus cyaneus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
 64,Cooper's Hawk - Accipiter cooperii,1,Collingwood Harbour,CA-ON,10 Feb 2013,L880143,S13388889
@@ -71,210 +71,214 @@ Row #,Species,Count,Location,S/P,Date,LocID,SubID
 70,American Coot - Fulica americana,4,Toronto--Sunnyside Beach,CA-ON,13 Jan 2013,L1356513,S13388806
 71,Sandhill Crane - Grus canadensis,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
 72,Semipalmated Plover - Charadrius semipalmatus,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-73,Killdeer - Charadrius vociferus,1,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
+73,Killdeer - Charadrius vociferus,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
 74,Greater Yellowlegs - Tringa melanoleuca,3,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
 75,Willet - Tringa semipalmata,1,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
 76,Lesser Yellowlegs - Tringa flavipes,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
-77,Upland Sandpiper - Bartramia longicauda,20,"Plainfield, Interstate 90",US-SD,01 Jul 2013,L2261325,S14562661
+77,Upland Sandpiper - Bartramia longicauda,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
 78,Whimbrel - Numenius phaeopus,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
 79,Dunlin - Calidris alpina,20,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
-80,Common Murre - Uria aalge,500,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
-81,Thick-billed Murre - Uria lomvia,1,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
-82,Razorbill - Alca torda,20,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
-83,Black Guillemot - Cepphus grylle,1,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
-84,Pigeon Guillemot - Cepphus columba,2,Ferry - Tsawwassen to Active Pass,CA-BC,11 May 2013,L306824,S14163110
-85,Rhinoceros Auklet - Cerorhinca monocerata,3,Ferry - Tsawwassen to Active Pass,CA-BC,11 May 2013,L306824,S14163110
-86,Atlantic Puffin - Fratercula arctica,500,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
-87,Black-legged Kittiwake - Rissa tridactyla,200,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
-88,Bonaparte's Gull - Chroicocephalus philadelphia,3,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
-89,Black-headed Gull - Chroicocephalus ridibundus,30,Jardin des Tuileries,FR-J,12 Jan 2014,L1552210,S16480401
-90,Franklin's Gull - Leucophaeus pipixcan,3,"Rigby, 4175 East Menan Lorenzo Highway",US-ID,30 Jun 2013,L2262280,S14568354
-91,Heermann's Gull - Larus heermanni,1,South Beach--shoreline,US-CA,18 Apr 2013,L762572,S13792257
-92,Ring-billed Gull - Larus delawarensis,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-93,Western Gull - Larus occidentalis,40,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-94,Herring Gull - Larus argentatus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-95,Iceland Gull - Larus glaucoides,1,Scarborough--Bluffers Park,CA-ON,18 Feb 2013,L450425,S13098235
-96,Glaucous-winged Gull - Larus glaucescens,20,Ferry - Tsawwassen to Active Pass,CA-BC,11 May 2013,L306824,S14163110
-97,Glaucous Gull - Larus hyperboreus,1,Collingwood Harbour,CA-ON,10 Feb 2013,L880143,S13388889
-98,Great Black-backed Gull - Larus marinus,20,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
-99,Caspian Tern - Hydroprogne caspia,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-100,Common Tern - Sterna hirundo,1,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
-101,Royal Tern - Thalasseus maximus,3,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
-102,Rock Pigeon - Columba livia,6,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-103,Common Wood-Pigeon - Columba palumbus,6,St. James Park,GB-ENG,03 Jun 2013,L945563,S14376550
-104,Red-billed Pigeon - Patagioenas flavirostris,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-105,White-winged Dove - Zenaida asiatica,1,"Playa Pelada, Calle Los Mangos",CR-G,07 Feb 2014,L2610355,S16861307
-106,Mourning Dove - Zenaida macroura,5,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
-107,White-tipped Dove - Leptotila verreauxi,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
-108,Squirrel Cuckoo - Piaya cayana,1,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-109,Groove-billed Ani - Crotophaga sulcirostris,3,Costa Rica Yoga Spa,CR-G,07 Feb 2014,L2604350,S16861831
-110,Snowy Owl - Bubo scandiacus,1,Toronto--Downsview Park,CA-ON,23 Dec 2013,L1437376,S16067214
-111,Long-eared Owl - Asio otus,1,Toronto--Colonel Samuel Smith Park,CA-ON,30 Dec 2013,L2044199,S16129369
-112,Common Pauraque - Nyctidromus albicollis,2,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16883203
-113,Chimney Swift - Chaetura pelagica,6,Murphy's Law (Pub),CA-ON,06 May 2013,L2158892,S14026098
-114,Common Swift - Apus apus,6,St. James Park,GB-ENG,03 Jun 2013,L945563,S14376550
-115,Green Violetear - Colibri thalassinus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-116,Green-crowned Brilliant - Heliodoxa jacula,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-117,Purple-throated Mountain-gem - Lampornis calolaemus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-118,Magenta-throated Woodstar - Calliphlox bryantae,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-119,Ruby-throated Hummingbird - Archilochus colubris,3,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-120,Anna's Hummingbird - Calypte anna,6,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-121,Violet Sabrewing - Campylopterus hemileucurus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-122,Stripe-tailed Hummingbird - Eupherusa eximia,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-123,Coppery-headed Emerald - Elvira cupreiceps,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-124,Steely-vented Hummingbird - Amazilia saucerrottei,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-125,Resplendent Quetzal - Pharomachrus mocinno,6,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-126,Gartered Trogon - Trogon caligatus,2,Costa Rica Yoga Spa,CR-G,07 Feb 2014,L2604350,S16861831
-127,Orange-bellied Trogon - Trogon aurantiiventris,3,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-128,Blue-crowned Motmot - Momotus coeruliceps,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-129,Belted Kingfisher - Megaceryle alcyon,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-130,Amazon Kingfisher - Chloroceryle amazona,1,Arenal Dam,CR-A,08 Feb 2014,L2612343,S16876051
-131,Prong-billed Barbet - Semnornis frantzii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-132,Emerald Toucanet - Aulacorhynchus prasinus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-133,Hoffmann's Woodpecker - Melanerpes hoffmannii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-134,Red-bellied Woodpecker - Melanerpes carolinus,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-135,Yellow-bellied Sapsucker - Sphyrapicus varius,2,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-136,Downy Woodpecker - Picoides pubescens,1,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-137,Hairy Woodpecker - Picoides villosus,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-138,Northern Flicker - Colaptes auratus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-139,Pileated Woodpecker - Dryocopus pileatus,1,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
-140,Crested Caracara - Caracara cheriway,2,"Juan Santamaria International Airport (SJO), Arrivals",CR-A,05 Feb 2014,L2610304,S16858053
-141,American Kestrel - Falco sparverius,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-142,Orange-chinned Parakeet - Brotogeris jugularis,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
-143,Slaty Antwren - Myrmotherula schisticolor,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-144,Tawny-throated Leaftosser - Sclerurus mexicanus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-145,Streak-headed Woodcreeper - Lepidocolaptes souleyetii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-146,Lineated Foliage-gleaner - Syndactyla subalaris,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-147,Spotted Barbtail - Premnoplex brunnescens,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-148,Mountain Elaenia - Elaenia frantzii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-149,Olive-striped Flycatcher - Mionectes olivaceus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-150,White-throated Spadebill - Platyrinchus mystaceus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-151,Tufted Flycatcher - Mitrephanes phaeocercus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-152,Yellowish Flycatcher - Empidonax flavescens,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-153,Black Phoebe - Sayornis nigricans,1,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-154,Eastern Phoebe - Sayornis phoebe,1,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
-155,Great Kiskadee - Pitangus sulphuratus,2,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-156,Boat-billed Flycatcher - Megarynchus pitangua,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-157,Social Flycatcher - Myiozetetes similis,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-158,Tropical Kingbird - Tyrannus melancholicus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-159,Eastern Kingbird - Tyrannus tyrannus,1,Duck pond,CA-ON,07 Jul 2013,L2288251,S14704249
-160,Long-tailed Manakin - Chiroxiphia linearis,4,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-161,Masked Tityra - Tityra semifasciata,1,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-162,Rose-throated Becard - Pachyramphus aglaiae,1,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-163,Loggerhead Shrike - Lanius ludovicianus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-164,Northern Shrike - Lanius excubitor,1,Toronto--Downsview Park,CA-ON,23 Dec 2013,L1437376,S16067214
-165,Blue-headed Vireo - Vireo solitarius,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-166,Red-eyed Vireo - Vireo olivaceus,1,Toronto--Cairns Ravine/Park,CA-ON,26 May 2014,L2396445,S18564707
-167,Yellow-green Vireo - Vireo flavoviridis,1,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-168,White-throated Magpie-Jay - Calocitta formosa,2,The Gilded Iguana,CR-G,06 Feb 2014,L2662650,S17081956
-169,Brown Jay - Psilorhinus morio,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-170,Blue Jay - Cyanocitta cristata,1,Collingwood Harbour,CA-ON,10 Feb 2013,L880143,S13388889
-171,Black-billed Magpie - Pica hudsonia,1,"Mona, Veterans Memorial Highway",US-UT,29 Jun 2013,L2254656,S14531277
-172,American Crow - Corvus brachyrhynchos,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-173,Northwestern Crow - Corvus caurinus,6,Ferry - Tsawwassen to Active Pass,CA-BC,11 May 2013,L306824,S14163110
-174,Common Raven - Corvus corax,1,Collingwood Harbour,CA-ON,10 Feb 2013,L880143,S13388889
-175,Horned Lark - Eremophila alpestris,2,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
-176,Blue-and-white Swallow - Pygochelidon cyanoleuca,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-177,Northern Rough-winged Swallow - Stelgidopteryx serripennis,2,"Leamington, 604-608 Bevel Line Road",CA-ON,20 Apr 2013,L2126285,S13817330
-178,Purple Martin - Progne subis,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-179,Tree Swallow - Tachycineta bicolor,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-180,Barn Swallow - Hirundo rustica,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-181,Cliff Swallow - Petrochelidon pyrrhonota,6,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
-182,Carolina Chickadee - Poecile carolinensis,6,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
-183,Black-capped Chickadee - Poecile atricapillus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-184,Chestnut-backed Chickadee - Poecile rufescens,3,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-185,Tufted Titmouse - Baeolophus bicolor,10,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
-186,Red-breasted Nuthatch - Sitta canadensis,1,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-187,White-breasted Nuthatch - Sitta carolinensis,2,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-188,Brown Creeper - Certhia americana,2,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
-189,House Wren - Troglodytes aedon,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-190,Winter Wren - Troglodytes hiemalis,1,Toronto--Cairns Ravine/Park,CA-ON,26 Apr 2014,L2396445,S18084162
-191,Sedge Wren - Cistothorus platensis,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-192,Rufous-naped Wren - Campylorhynchus rufinucha,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-193,Rufous-and-white Wren - Thryophilus rufalbus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-194,Gray-breasted Wood-Wren - Henicorhina leucophrys,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-195,Blue-gray Gnatcatcher - Polioptila caerulea,1,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
-196,Golden-crowned Kinglet - Regulus satrapa,2,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
-197,Ruby-crowned Kinglet - Regulus calendula,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-198,Black-faced Solitaire - Myadestes melanops,5,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-199,Slaty-backed Nightingale-Thrush - Catharus fuscater,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-200,Swainson's Thrush - Catharus ustulatus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-201,Hermit Thrush - Catharus guttatus,1,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-202,Mountain Thrush - Turdus plebejus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-203,Clay-colored Thrush - Turdus grayi,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-204,White-throated Thrush - Turdus assimilis,1,Monteverde--Selvatura Park,CR-G,03 Feb 2014,L2249172,S18566434
-205,American Robin - Turdus migratorius,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-206,Gray Catbird - Dumetella carolinensis,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-207,Brown Thrasher - Toxostoma rufum,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-208,Northern Mockingbird - Mimus polyglottos,2,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
-209,European Starling - Sturnus vulgaris,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-210,Olive-backed Sunbird - Cinnyris jugularis,6,V Hotel Lavender,SG-,18 Nov 2012,L2578481,S16483087
-211,Cedar Waxwing - Bombycilla cedrorum,1,Toronto Zoo,CA-ON,14 Jun 2013,L523153,S14437426
-212,Ovenbird - Seiurus aurocapilla,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-213,Worm-eating Warbler - Helmitheros vermivorum,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-214,Black-and-white Warbler - Mniotilta varia,1,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-215,Tennessee Warbler - Oreothlypis peregrina,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-216,Nashville Warbler - Oreothlypis ruficapilla,1,Toronto--Cairns Ravine/Park,CA-ON,09 May 2014,L2396445,S18298387
-217,Gray-crowned Yellowthroat - Geothlypis poliocephala,1,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-218,Common Yellowthroat - Geothlypis trichas,1,Toronto--Cairns Ravine/Park,CA-ON,09 May 2014,L2396445,S18298387
-219,American Redstart - Setophaga ruticilla,6,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-220,Cape May Warbler - Setophaga tigrina,1,Toronto--Cairns Ravine/Park,CA-ON,10 May 2014,L2396445,S18313996
-221,Northern Parula - Setophaga americana,1,Toronto--Cairns Ravine/Park,CA-ON,19 May 2014,L2396445,S18474510
-222,Magnolia Warbler - Setophaga magnolia,3,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-223,Bay-breasted Warbler - Setophaga castanea,1,Toronto--Cairns Ravine/Park,CA-ON,19 May 2014,L2396445,S18474510
-224,Blackburnian Warbler - Setophaga fusca,1,Toronto--Cairns Ravine/Park,CA-ON,07 May 2014,L2396445,S18265724
-225,Yellow Warbler - Setophaga petechia,2,"Rigby, 4175 East Menan Lorenzo Highway",US-ID,30 Jun 2013,L2262280,S14568354
-226,Chestnut-sided Warbler - Setophaga pensylvanica,2,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
-227,Black-throated Blue Warbler - Setophaga caerulescens,1,Toronto--Cairns Ravine/Park,CA-ON,17 May 2014,L2396445,S18435703
-228,Palm Warbler - Setophaga palmarum,1,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
-229,Yellow-rumped Warbler - Setophaga coronata,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-230,Black-throated Green Warbler - Setophaga virens,1,Toronto--Cairns Ravine/Park,CA-ON,09 May 2014,L2396445,S18302782
-231,Rufous-capped Warbler - Basileuterus rufifrons,1,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-232,Three-striped Warbler - Basileuterus tristriatus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-233,Wilson's Warbler - Cardellina pusilla,1,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
-234,Slate-throated Redstart - Myioborus miniatus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-235,Passerini's Tanager - Ramphocelus passerinii,1,Tabacon Resort,CR-A,08 Feb 2014,L444570,S17082977
-236,Blue-gray Tanager - Thraupis episcopus,1,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-237,Palm Tanager - Thraupis palmarum,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-238,Spangle-cheeked Tanager - Tangara dowii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-239,Silver-throated Tanager - Tangara icterocephala,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-240,Red-legged Honeycreeper - Cyanerpes cyaneus,5,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-241,Bananaquit - Coereba flaveola,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-242,Buff-throated Saltator - Saltator maximus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-243,Chestnut-capped Brush-Finch - Arremon brunneinucha,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-244,Eastern Towhee - Pipilo erythrophthalmus,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-245,White-eared Ground-Sparrow - Melozone leucotis,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-246,Stripe-headed Sparrow - Peucaea ruficauda,2,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-247,American Tree Sparrow - Spizella arborea,6,Scarborough--Bluffers Park,CA-ON,18 Feb 2013,L450425,S13098235
-248,Chipping Sparrow - Spizella passerina,12,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
-249,Savannah Sparrow - Passerculus sandwichensis,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-250,Grasshopper Sparrow - Ammodramus savannarum,2,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-251,Fox Sparrow - Passerella iliaca,3,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
-252,Song Sparrow - Melospiza melodia,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-253,Rufous-collared Sparrow - Zonotrichia capensis,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-254,White-throated Sparrow - Zonotrichia albicollis,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
-255,White-crowned Sparrow - Zonotrichia leucophrys,2,Toronto--Cairns Ravine/Park,CA-ON,07 May 2014,L2396445,S18265724
-256,Golden-crowned Sparrow - Zonotrichia atricapilla,3,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-257,Dark-eyed Junco - Junco hyemalis,4,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-258,Common Chlorospingus - Chlorospingus flavopectus,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-259,Hepatic Tanager - Piranga flava,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-260,Northern Cardinal - Cardinalis cardinalis,2,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
-261,Rose-breasted Grosbeak - Pheucticus ludovicianus,1,Toronto--Cairns Ravine/Park,CA-ON,09 May 2014,L2396445,S18298387
-262,Red-winged Blackbird - Agelaius phoeniceus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-263,Eastern Meadowlark - Sturnella magna,3,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-264,Brewer's Blackbird - Euphagus cyanocephalus,20,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
-265,Common Grackle - Quiscalus quiscula,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
-266,Great-tailed Grackle - Quiscalus mexicanus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-267,Nicaraguan Grackle - Quiscalus nicaraguensis,3,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
-268,Brown-headed Cowbird - Molothrus ater,2,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
-269,Streak-backed Oriole - Icterus pustulatus,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
-270,Baltimore Oriole - Icterus galbula,1,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
-271,Montezuma Oropendola - Psarocolius montezuma,2,"Alfaro Ruiz, 141",CR-A,09 Feb 2014,L2610311,S16858088
-272,Yellow-throated Euphonia - Euphonia hirundinacea,6,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-273,Golden-browed Chlorophonia - Chlorophonia callophrys,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
-274,House Finch - Haemorhous mexicanus,4,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
-275,Purple Finch - Haemorhous purpureus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
-276,Pine Siskin - Spinus pinus,8,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
-277,Lesser Goldfinch - Spinus psaltria,,"Old Mountain View, 500 Castro Street",US-CA,16 Apr 2013,L2118405,S13768141
-278,American Goldfinch - Spinus tristis,1,Toronto--Colonel Samuel Smith Park,CA-ON,09 Mar 2013,L2044199,S13342443
-279,House Sparrow - Passer domesticus,5,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
+80,Wilson's Snipe - Gallinago delicata,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+81,Common Murre - Uria aalge,500,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
+82,Thick-billed Murre - Uria lomvia,1,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
+83,Razorbill - Alca torda,20,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
+84,Black Guillemot - Cepphus grylle,1,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
+85,Pigeon Guillemot - Cepphus columba,2,Ferry - Tsawwassen to Active Pass,CA-BC,11 May 2013,L306824,S14163110
+86,Rhinoceros Auklet - Cerorhinca monocerata,3,Ferry - Tsawwassen to Active Pass,CA-BC,11 May 2013,L306824,S14163110
+87,Atlantic Puffin - Fratercula arctica,500,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
+88,Black-legged Kittiwake - Rissa tridactyla,200,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
+89,Bonaparte's Gull - Chroicocephalus philadelphia,3,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
+90,Black-headed Gull - Chroicocephalus ridibundus,30,Jardin des Tuileries,FR-J,12 Jan 2014,L1552210,S16480401
+91,Franklin's Gull - Leucophaeus pipixcan,3,"Rigby, 4175 East Menan Lorenzo Highway",US-ID,30 Jun 2013,L2262280,S14568354
+92,Heermann's Gull - Larus heermanni,1,South Beach--shoreline,US-CA,18 Apr 2013,L762572,S13792257
+93,Ring-billed Gull - Larus delawarensis,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+94,Western Gull - Larus occidentalis,40,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+95,Herring Gull - Larus argentatus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+96,Iceland Gull - Larus glaucoides,1,Scarborough--Bluffers Park,CA-ON,18 Feb 2013,L450425,S13098235
+97,Glaucous-winged Gull - Larus glaucescens,20,Ferry - Tsawwassen to Active Pass,CA-BC,11 May 2013,L306824,S14163110
+98,Glaucous Gull - Larus hyperboreus,1,Collingwood Harbour,CA-ON,10 Feb 2013,L880143,S13388889
+99,Great Black-backed Gull - Larus marinus,20,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
+100,Caspian Tern - Hydroprogne caspia,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+101,Common Tern - Sterna hirundo,1,NL--Witless Bay--Gull Island,CA-NL,26 Jul 2013,L299030,S14933540
+102,Royal Tern - Thalasseus maximus,3,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
+103,Rock Pigeon - Columba livia,6,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+104,Common Wood-Pigeon - Columba palumbus,6,St. James Park,GB-ENG,03 Jun 2013,L945563,S14376550
+105,Red-billed Pigeon - Patagioenas flavirostris,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+106,White-winged Dove - Zenaida asiatica,1,"Playa Pelada, Calle Los Mangos",CR-G,07 Feb 2014,L2610355,S16861307
+107,Mourning Dove - Zenaida macroura,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+108,White-tipped Dove - Leptotila verreauxi,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
+109,Squirrel Cuckoo - Piaya cayana,1,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+110,Groove-billed Ani - Crotophaga sulcirostris,3,Costa Rica Yoga Spa,CR-G,07 Feb 2014,L2604350,S16861831
+111,Snowy Owl - Bubo scandiacus,1,Toronto--Downsview Park,CA-ON,23 Dec 2013,L1437376,S16067214
+112,Long-eared Owl - Asio otus,1,Toronto--Colonel Samuel Smith Park,CA-ON,30 Dec 2013,L2044199,S16129369
+113,Common Pauraque - Nyctidromus albicollis,2,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16883203
+114,Chimney Swift - Chaetura pelagica,6,Murphy's Law (Pub),CA-ON,06 May 2013,L2158892,S14026098
+115,Common Swift - Apus apus,6,St. James Park,GB-ENG,03 Jun 2013,L945563,S14376550
+116,Green Violetear - Colibri thalassinus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+117,Green-crowned Brilliant - Heliodoxa jacula,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+118,Purple-throated Mountain-gem - Lampornis calolaemus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+119,Magenta-throated Woodstar - Calliphlox bryantae,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+120,Ruby-throated Hummingbird - Archilochus colubris,3,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+121,Anna's Hummingbird - Calypte anna,6,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+122,Violet Sabrewing - Campylopterus hemileucurus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+123,Stripe-tailed Hummingbird - Eupherusa eximia,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+124,Coppery-headed Emerald - Elvira cupreiceps,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+125,Steely-vented Hummingbird - Amazilia saucerrottei,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+126,Resplendent Quetzal - Pharomachrus mocinno,6,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+127,Gartered Trogon - Trogon caligatus,2,Costa Rica Yoga Spa,CR-G,07 Feb 2014,L2604350,S16861831
+128,Orange-bellied Trogon - Trogon aurantiiventris,3,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+129,Blue-crowned Motmot - Momotus coeruliceps,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+130,Belted Kingfisher - Megaceryle alcyon,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+131,Amazon Kingfisher - Chloroceryle amazona,1,Arenal Dam,CR-A,08 Feb 2014,L2612343,S16876051
+132,Prong-billed Barbet - Semnornis frantzii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+133,Emerald Toucanet - Aulacorhynchus prasinus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+134,Hoffmann's Woodpecker - Melanerpes hoffmannii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+135,Red-bellied Woodpecker - Melanerpes carolinus,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+136,Yellow-bellied Sapsucker - Sphyrapicus varius,2,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+137,Downy Woodpecker - Picoides pubescens,1,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+138,Hairy Woodpecker - Picoides villosus,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+139,Northern Flicker - Colaptes auratus,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+140,Pileated Woodpecker - Dryocopus pileatus,1,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
+141,Crested Caracara - Caracara cheriway,2,"Juan Santamaria International Airport (SJO), Arrivals",CR-A,05 Feb 2014,L2610304,S16858053
+142,American Kestrel - Falco sparverius,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+143,Orange-chinned Parakeet - Brotogeris jugularis,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
+144,Slaty Antwren - Myrmotherula schisticolor,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+145,Tawny-throated Leaftosser - Sclerurus mexicanus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+146,Streak-headed Woodcreeper - Lepidocolaptes souleyetii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+147,Lineated Foliage-gleaner - Syndactyla subalaris,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+148,Spotted Barbtail - Premnoplex brunnescens,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+149,Mountain Elaenia - Elaenia frantzii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+150,Olive-striped Flycatcher - Mionectes olivaceus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+151,White-throated Spadebill - Platyrinchus mystaceus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+152,Tufted Flycatcher - Mitrephanes phaeocercus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+153,Least Flycatcher - Empidonax minimus,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+154,Yellowish Flycatcher - Empidonax flavescens,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+155,Black Phoebe - Sayornis nigricans,1,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+156,Eastern Phoebe - Sayornis phoebe,1,Toronto--Colonel Samuel Smith Park,CA-ON,07 Apr 2013,L2044199,S13670276
+157,Great Kiskadee - Pitangus sulphuratus,2,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+158,Boat-billed Flycatcher - Megarynchus pitangua,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+159,Social Flycatcher - Myiozetetes similis,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+160,Tropical Kingbird - Tyrannus melancholicus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+161,Eastern Kingbird - Tyrannus tyrannus,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+162,Long-tailed Manakin - Chiroxiphia linearis,4,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+163,Masked Tityra - Tityra semifasciata,1,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+164,Rose-throated Becard - Pachyramphus aglaiae,1,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+165,Loggerhead Shrike - Lanius ludovicianus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+166,Northern Shrike - Lanius excubitor,1,Toronto--Downsview Park,CA-ON,23 Dec 2013,L1437376,S16067214
+167,Blue-headed Vireo - Vireo solitarius,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+168,Red-eyed Vireo - Vireo olivaceus,1,Toronto--Cairns Ravine/Park,CA-ON,26 May 2014,L2396445,S18564707
+169,Yellow-green Vireo - Vireo flavoviridis,1,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+170,White-throated Magpie-Jay - Calocitta formosa,2,The Gilded Iguana,CR-G,06 Feb 2014,L2662650,S17081956
+171,Brown Jay - Psilorhinus morio,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+172,Blue Jay - Cyanocitta cristata,1,Collingwood Harbour,CA-ON,10 Feb 2013,L880143,S13388889
+173,Black-billed Magpie - Pica hudsonia,1,"Mona, Veterans Memorial Highway",US-UT,29 Jun 2013,L2254656,S14531277
+174,American Crow - Corvus brachyrhynchos,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+175,Northwestern Crow - Corvus caurinus,6,Ferry - Tsawwassen to Active Pass,CA-BC,11 May 2013,L306824,S14163110
+176,Common Raven - Corvus corax,1,Collingwood Harbour,CA-ON,10 Feb 2013,L880143,S13388889
+177,Horned Lark - Eremophila alpestris,2,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
+178,Blue-and-white Swallow - Pygochelidon cyanoleuca,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+179,Northern Rough-winged Swallow - Stelgidopteryx serripennis,2,"Leamington, 604-608 Bevel Line Road",CA-ON,20 Apr 2013,L2126285,S13817330
+180,Purple Martin - Progne subis,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+181,Tree Swallow - Tachycineta bicolor,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+182,Barn Swallow - Hirundo rustica,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+183,Cliff Swallow - Petrochelidon pyrrhonota,6,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
+184,Carolina Chickadee - Poecile carolinensis,6,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
+185,Black-capped Chickadee - Poecile atricapillus,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+186,Chestnut-backed Chickadee - Poecile rufescens,3,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+187,Tufted Titmouse - Baeolophus bicolor,10,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
+188,Red-breasted Nuthatch - Sitta canadensis,1,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+189,White-breasted Nuthatch - Sitta carolinensis,2,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+190,Brown Creeper - Certhia americana,2,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
+191,House Wren - Troglodytes aedon,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+192,Winter Wren - Troglodytes hiemalis,1,Toronto--Cairns Ravine/Park,CA-ON,26 Apr 2014,L2396445,S18084162
+193,Sedge Wren - Cistothorus platensis,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+194,Rufous-naped Wren - Campylorhynchus rufinucha,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+195,Rufous-and-white Wren - Thryophilus rufalbus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+196,Gray-breasted Wood-Wren - Henicorhina leucophrys,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+197,Blue-gray Gnatcatcher - Polioptila caerulea,1,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
+198,Golden-crowned Kinglet - Regulus satrapa,2,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
+199,Ruby-crowned Kinglet - Regulus calendula,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+200,Eastern Bluebird - Sialia sialis,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+201,Black-faced Solitaire - Myadestes melanops,5,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+202,Slaty-backed Nightingale-Thrush - Catharus fuscater,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+203,Swainson's Thrush - Catharus ustulatus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+204,Hermit Thrush - Catharus guttatus,1,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+205,Mountain Thrush - Turdus plebejus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+206,Clay-colored Thrush - Turdus grayi,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+207,White-throated Thrush - Turdus assimilis,1,Monteverde--Selvatura Park,CR-G,03 Feb 2014,L2249172,S18566434
+208,American Robin - Turdus migratorius,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+209,Gray Catbird - Dumetella carolinensis,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+210,Brown Thrasher - Toxostoma rufum,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+211,Northern Mockingbird - Mimus polyglottos,2,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
+212,European Starling - Sturnus vulgaris,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+213,Olive-backed Sunbird - Cinnyris jugularis,6,V Hotel Lavender,SG-,18 Nov 2012,L2578481,S16483087
+214,Cedar Waxwing - Bombycilla cedrorum,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+215,Ovenbird - Seiurus aurocapilla,1,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+216,Worm-eating Warbler - Helmitheros vermivorum,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+217,Black-and-white Warbler - Mniotilta varia,1,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+218,Tennessee Warbler - Oreothlypis peregrina,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+219,Nashville Warbler - Oreothlypis ruficapilla,1,Toronto--Cairns Ravine/Park,CA-ON,09 May 2014,L2396445,S18298387
+220,Gray-crowned Yellowthroat - Geothlypis poliocephala,1,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+221,Common Yellowthroat - Geothlypis trichas,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+222,American Redstart - Setophaga ruticilla,6,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+223,Cape May Warbler - Setophaga tigrina,1,Toronto--Cairns Ravine/Park,CA-ON,10 May 2014,L2396445,S18313996
+224,Northern Parula - Setophaga americana,1,Toronto--Cairns Ravine/Park,CA-ON,19 May 2014,L2396445,S18474510
+225,Magnolia Warbler - Setophaga magnolia,3,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+226,Bay-breasted Warbler - Setophaga castanea,1,Toronto--Cairns Ravine/Park,CA-ON,19 May 2014,L2396445,S18474510
+227,Blackburnian Warbler - Setophaga fusca,1,Toronto--Cairns Ravine/Park,CA-ON,07 May 2014,L2396445,S18265724
+228,Yellow Warbler - Setophaga petechia,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+229,Chestnut-sided Warbler - Setophaga pensylvanica,2,Mississauga--Rattray Marsh,CA-ON,25 Aug 2013,L160823,S15019670
+230,Black-throated Blue Warbler - Setophaga caerulescens,1,Toronto--Cairns Ravine/Park,CA-ON,17 May 2014,L2396445,S18435703
+231,Palm Warbler - Setophaga palmarum,1,Hillman Marsh Conservation Area,CA-ON,20 Apr 2013,L2127185,S13823181
+232,Yellow-rumped Warbler - Setophaga coronata,,Collingwood Harbour,CA-ON,22 Apr 2011,L880143,S16483194
+233,Black-throated Green Warbler - Setophaga virens,1,Toronto--Cairns Ravine/Park,CA-ON,09 May 2014,L2396445,S18302782
+234,Rufous-capped Warbler - Basileuterus rufifrons,1,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+235,Three-striped Warbler - Basileuterus tristriatus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+236,Wilson's Warbler - Cardellina pusilla,1,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
+237,Slate-throated Redstart - Myioborus miniatus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+238,Passerini's Tanager - Ramphocelus passerinii,1,Tabacon Resort,CR-A,08 Feb 2014,L444570,S17082977
+239,Blue-gray Tanager - Thraupis episcopus,1,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+240,Palm Tanager - Thraupis palmarum,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+241,Spangle-cheeked Tanager - Tangara dowii,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+242,Silver-throated Tanager - Tangara icterocephala,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+243,Red-legged Honeycreeper - Cyanerpes cyaneus,5,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+244,Bananaquit - Coereba flaveola,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+245,Buff-throated Saltator - Saltator maximus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+246,Chestnut-capped Brush-Finch - Arremon brunneinucha,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+247,Eastern Towhee - Pipilo erythrophthalmus,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+248,White-eared Ground-Sparrow - Melozone leucotis,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+249,Stripe-headed Sparrow - Peucaea ruficauda,2,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+250,American Tree Sparrow - Spizella arborea,6,Scarborough--Bluffers Park,CA-ON,18 Feb 2013,L450425,S13098235
+251,Chipping Sparrow - Spizella passerina,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+252,Savannah Sparrow - Passerculus sandwichensis,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+253,Grasshopper Sparrow - Ammodramus savannarum,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+254,Fox Sparrow - Passerella iliaca,3,"Cockeysville, 13401 Beaver Dam Road",US-MD,24 Mar 2013,L2086153,S13553532
+255,Song Sparrow - Melospiza melodia,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+256,Rufous-collared Sparrow - Zonotrichia capensis,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+257,White-throated Sparrow - Zonotrichia albicollis,1,Point Pelee National Park (general location),CA-ON,21 Apr 2013,L131153,S13854811
+258,White-crowned Sparrow - Zonotrichia leucophrys,2,Toronto--Cairns Ravine/Park,CA-ON,07 May 2014,L2396445,S18265724
+259,Golden-crowned Sparrow - Zonotrichia atricapilla,3,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+260,Dark-eyed Junco - Junco hyemalis,4,Ontario Science Centre/Seton Park,CA-ON,17 Feb 2013,L2059381,S13388838
+261,Common Chlorospingus - Chlorospingus flavopectus,2,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+262,Hepatic Tanager - Piranga flava,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+263,Northern Cardinal - Cardinalis cardinalis,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+264,Rose-breasted Grosbeak - Pheucticus ludovicianus,1,Toronto--Cairns Ravine/Park,CA-ON,09 May 2014,L2396445,S18298387
+265,Bobolink - Dolichonyx oryzivorus,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+266,Red-winged Blackbird - Agelaius phoeniceus,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+267,Eastern Meadowlark - Sturnella magna,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+268,Brewer's Blackbird - Euphagus cyanocephalus,20,"Half Moon Bay, 114 Broadway",US-CA,19 Mar 2013,L2086176,S13553651
+269,Common Grackle - Quiscalus quiscula,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+270,Great-tailed Grackle - Quiscalus mexicanus,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+271,Nicaraguan Grackle - Quiscalus nicaraguensis,3,Costa Rica Yoga Spa,CR-G,06 Feb 2014,L2604350,S16806999
+272,Brown-headed Cowbird - Molothrus ater,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+273,Streak-backed Oriole - Icterus pustulatus,1,Lagarta Nature Reserve,CR-G,07 Feb 2014,L2662690,S17082569
+274,Baltimore Oriole - Icterus galbula,1,Toronto--Toronto Islands (Royal Canadian Yacht Club),CA-ON,25 May 2013,L952651,S14376504
+275,Montezuma Oropendola - Psarocolius montezuma,2,"Alfaro Ruiz, 141",CR-A,09 Feb 2014,L2610311,S16858088
+276,Yellow-throated Euphonia - Euphonia hirundinacea,6,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+277,Golden-browed Chlorophonia - Chlorophonia callophrys,,"Puntarenas, Carretera a Reserva de Monteverde",CR-P,04 Feb 2014,L2610250,S16857689
+278,House Finch - Haemorhous mexicanus,4,"Rodney, 22824-23308 Talbot Line",CA-ON,20 Apr 2013,L2126111,S13816078
+279,Purple Finch - Haemorhous purpureus,1,Carden Alvar--Wylie Road,CA-ON,04 Aug 2013,L879392,S14889011
+280,Pine Siskin - Spinus pinus,8,Vancouver--Tower Beach,CA-BC,12 May 2013,L344556,S14399645
+281,Lesser Goldfinch - Spinus psaltria,,"Old Mountain View, 500 Castro Street",US-CA,16 Apr 2013,L2118405,S13768141
+282,American Goldfinch - Spinus tristis,,Carden Alvar--Wylie Road,CA-ON,26 Jun 2010,L879392,S18757984
+283,House Sparrow - Passer domesticus,5,Toronto--Humber Bay Park (East),CA-ON,10 Mar 2013,L2054714,S13357899
